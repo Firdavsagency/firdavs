@@ -16,8 +16,8 @@ const Footer: React.FC = () => {
           >
             <Link to="/" className="flex items-center space-x-2 mb-6">
               <div className="text-2xl font-bold flex items-center">
-                <span className="text-green-400">Nation</span>
-                <span className="text-white">Immersivo</span>
+                <span className="text-green-400">glorix</span>
+                
               </div>
             </Link>
             <p className="text-gray-400 mb-6">
